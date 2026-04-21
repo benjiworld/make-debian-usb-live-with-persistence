@@ -28,7 +28,7 @@ You will also need a **Debian Live ISO**. You can download the latest Debian Cin
 
 1. **Clone or download the script:**
    ```bash
-   git clone https://github.com/yourusername/debian-live-usb-persistence.git
+   git clone https://github.com/benjiworld/debian-live-usb-persistence.git
    cd debian-live-usb-persistence
    ```
 
